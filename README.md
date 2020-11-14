@@ -1,6 +1,6 @@
-# store_nuxt
+# store-nuxt
 
-> store_nuxt project
+> store-nuxt project
 
 ## Build Setup
 
